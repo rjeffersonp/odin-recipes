@@ -1,0 +1,15 @@
+#main_title {
+    text-align: center;
+    color: red;
+}
+
+#recipe_list {
+    list-style-type: none;
+}
+
+#recipe_list li {
+    margin-bottom: 20px;
+}
+#recipe_list li a{
+    color: darkred;
+}
